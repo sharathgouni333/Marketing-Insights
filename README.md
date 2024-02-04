@@ -1,4 +1,4 @@
-# Marketing-Insights
+#Marketing Insights for E-Commerce Company
 #About Dataset:
 
 1.Why do we need customer Segmentation?
